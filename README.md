@@ -3,8 +3,7 @@ ug
 u
 u
 u
-ug
-u
+ugc
 gh
 ggh
 gghhh
