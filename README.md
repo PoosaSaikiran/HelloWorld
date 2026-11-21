@@ -6,7 +6,7 @@ u
 ug
 u
 gh
-gg
+ggh
 gghhh
 ggvh
 h
