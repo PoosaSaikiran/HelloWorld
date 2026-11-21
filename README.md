@@ -7,6 +7,5 @@ ug
 u
 g
 gg
-g
-g
+gg
 g
