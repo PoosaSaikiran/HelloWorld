@@ -6,7 +6,7 @@ u
 ug
 u
 g
-g
+gg
 g
 g
 g
